@@ -18,20 +18,13 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/chandan-shankar-m-315b
 ## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/WangRongsheng/count.svg" />
+  <img src="https://profile-counter.glitch.me/ChandanShankarM/count.svg" />
 </p>
 
 <details>
 <summary><img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="25" />Click For GitHub Activity Graph</summary>
 <p align="center">
-  <img alt = "GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wangrongsheng">
-</p>
-</details>
-
-<details>
-<summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />Click For My Love Music</summary>
-<p align="center">
-  <a href="https://music.163.com/#/user/home?id=1397224764"><img alt = "Music" src="https://spotify-readme.sp-xd.vercel.app/api/spotify"></a>
+  <img alt = "GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChandanShankarM">
 </p>
 </details>
 
