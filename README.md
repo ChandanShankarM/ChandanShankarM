@@ -2,18 +2,13 @@
 
 
 
-My name is Claire Mevolhon and I am a developper in Artificial Intelligence.  
-I have a Master's degree in Artificial Intelligence and Pattern Recognition, that include computer vision, robotics and AI.  
+I'm Chandan Shankar M and My Interested area are Networking,Support Engineering,Frontend and Artificial Intelligence.
+I have a Major degree in Electronics and Communication Engineering from PES University.
+I have a Minor Degree in Computer Science Engineering from PES University
 
-I really like AI: different algorithms with "simple" concepts and an amazing output!  
+I love to work with new technologies and can adapt to different technologies easily.
 
-I also really like computer vision. I was lucky to work on a facial recognition, and I worked with DLib, OpenCV and some CNN.
-
-
-However, I also worked on several projects without AI, for example I implemented some codes for SEVRI.  
-You can also see some Jupyter notebooks that I regrouped [here](https://canneltigrou.github.io)  
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/claire-mevolhon/?locale=en_US)
+You can find me on [LinkedIn](https://www.linkedin.com/in/chandan-shankar-m-315b781a3/)
 
 
 
