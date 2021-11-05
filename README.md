@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChandanShankarM
-- 👀 I’m interested in the areas of Networking , cloud and Devops
+- 👀 I’m interested in the areas of Networking , Cloud and Devops
 - 🌱 I’m currently Studying in PES University
 - 📫 How to reach me - chandanshankar2000@gmail.com
 
