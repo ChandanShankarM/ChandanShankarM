@@ -2,7 +2,7 @@
 
 
 
-I'm Chandan Shankar M and My Interested area are Networking,Support Engineering,Frontend and Artificial Intelligence.
+I'm Chandan Shankar M and My Interested areas are Networking,Support Engineering,Frontend and Artificial Intelligence.
 I have a Major degree in Electronics and Communication Engineering from PES University.
 I have a Minor Degree in Computer Science Engineering from PES University
 
